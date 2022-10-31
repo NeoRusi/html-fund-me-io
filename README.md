@@ -62,7 +62,7 @@ Make sure you have the following installed:
 1. You'll need to open up a second terminal and run:
 
 ```
-git clone https://github.com/PatrickAlphaC/hardhat-fund-me-fcc
+git clonehttps://github.com/NeoRusi/hardhat-fund-me-io
 cd hardhat-fund-me-fcc
 yarn
 yarn hardhat node
