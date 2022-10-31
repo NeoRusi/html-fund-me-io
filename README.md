@@ -30,8 +30,8 @@ If you can't or don't want to run and install locally, you can work with this re
 1. Clone the repo
 
 ```
-git clone https://github.com/PatrickAlphaC/html-fund-me-fcc
-cd html-fund-me-fcc
+git clone https://github.com/NeoRusi/html-fund-me-io
+cd html-fund-me-io
 ```
 
 2. Run the file.
